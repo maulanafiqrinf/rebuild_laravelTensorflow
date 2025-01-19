@@ -45,20 +45,19 @@
                         <a href="contact.html" class="theme-btn">Get an appointment now</a>
 
                         <div class="footer-experience d-flex align-items-center">
-                            <ul class="social-links d-flex align-items-center">
-                                <li><a href="#">nama
-                                    <i class="iconoir-dribbble"></i>
-                                </a></li>
-                                <li><a href="#">
-                                    <i class="iconoir-twitter"></i>
-                                </a></li>
-                                <li><a href="#">
-                                    <i class="iconoir-instagram"></i>
-                                </a></li>
-                                <li><a href="#">
-                                    <i class="iconoir-linkedin"></i>
-                                </a></li>
-                            </ul>
+
+                            <div class="footer-experience-item">
+                                <h1>2 <span>Mins</span></h1>
+                                <p>Response Time</p>
+                            </div>
+                            <div class="footer-experience-item">
+                                <h1>99%</h1>
+                                <p>Client Satisfaction</p>
+                            </div>
+                            <div class="footer-experience-item">
+                                <h1>22+ <span>Years</span></h1>
+                                <p>Field Experience</p>
+                            </div>
 
                         </div>
                     </div>
@@ -69,6 +68,7 @@
     <div class="copyright-area">
         <div class="custom-container">
             <div class="custom-row d-flex align-items-center justify-content-between">
+
                 <p>&copy; 2025 All rights reserved by <a href="">mfdev87</a></p>
             </div>
         </div>
