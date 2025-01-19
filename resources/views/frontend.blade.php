@@ -41,13 +41,12 @@
 
         @include('frontend.header')
         @include('frontend.hero')
-        @include('frontend.client')
+        {{-- @include('frontend.client') --}}
         @include('frontend.service')
         @include('frontend.how')
-        @include('frontend.about')
-        @include('frontend.news')
+        {{-- @include('frontend.about')
+        @include('frontend.news') --}}
         @include('frontend.testimonial')
-        @include('frontend.contact')
     </main>
     <!-- jQuery Frameworks
     ============================================= -->
