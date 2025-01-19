@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
-<!-- Mirrored from wpriverthemes.com/HTML/synck/home2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 16 Jan 2025 00:27:13 GMT -->
 <head>
     <!-- ========== Meta Tags ========== -->
     <meta charset="UTF-8">
