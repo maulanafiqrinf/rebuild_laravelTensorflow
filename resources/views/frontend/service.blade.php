@@ -1,4 +1,4 @@
-<section class="service-area">
+<section class="service-area" id="service">
     <div class="custom-container">
         <div class="service-section-header section-header d-flex align-items-end justify-content-between">
             <div class="left">

@@ -1,4 +1,4 @@
-<section class="testimonial2-area">
+<section class="testimonial2-area" id="testimonial">
     <div class="custom-container">
         <div class="section-header text-center">
             <h5 class="section-subtitle">TESTIMONIAL</h5>

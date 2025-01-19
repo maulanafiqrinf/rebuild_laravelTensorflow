@@ -4,23 +4,11 @@
         <div class="custom-container">
             <div class="custom-row align-items-end justify-content-between">
                 <div class="left-content">
-                    <a href="index.html" class="logo">
-                        <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/logo-white.svg" alt="Logo" />
+                    <a href="{{url('/')}}" class="logo">
+                        <img src="{{ URL::asset('/assets/imglndg/logo-dark.png') }}" alt="Logo" />
                     </a>
-                    <p>We provide the expertise and support to <br>
-                        propel your business forward.</p>
-                    <form action="https://wpriverthemes.com/HTML/synck/https://rebuild-laravel-tensorflow.vercel.app/assets/mail/subscribe.php" method="POST" class="subscribe-form">
-                        <div class="subscribe-box d-flex">
-                            <input type="email" id="email" name="email" placeholder="Enter Your Email" />
-                            <button id="submit2" class="theme-btn">Get Started</button>
-                        </div>
-                        <!-- Alert Message -->  
-                        <div class="input-row">
-                            <div class="input-group alert-notification">
-                                <div id="alert-message-subscribe" class="alert-msg"></div>
-                            </div>
-                        </div>
-                    </form>
+                    <p>Website untuk mendeteksi dan mendiagnosis  <br>
+                        penyakit pada daun tanaman padi</p>
                     <div class="footer-clients d-flex align-items-center">
                         <div class="footer-client-img">
                             <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/youtube.svg" alt="Youtube" />

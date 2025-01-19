@@ -1,4 +1,4 @@
-<section class="about2-area">
+<section class="about2-area" id="klasifikasi">
     <div class="custom-container">
         <div class="about2-inner-box">
 

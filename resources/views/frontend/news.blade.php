@@ -1,4 +1,4 @@
-<section class="news2-area">
+<section class="news2-area" id="news">
     <div class="custom-container">
         <div class="section-header d-flex align-items-center justify-content-between">
             <div class="left">

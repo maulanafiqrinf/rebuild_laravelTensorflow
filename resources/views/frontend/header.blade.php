@@ -19,13 +19,19 @@
                     </span>
                     <ul>
                         <li>
-                            <a href="blog.html">Home</a>
+                            <a href="{{url('/')}}">Beranda</a>
                         </li>
                         <li>
-                            <a href="blog.html">Blog</a>
+                            <a href="{{ url('/') }}#service">Layanan</a>
                         </li>
                         <li>
-                            <a href="pricing.html">Pricing</a>
+                            <a href="{{ url('/') }}#klasifikasi">Klasifikasi</a>
+                        </li>
+                        <li>
+                            <a href="{{ url('/') }}#news">Berita</a>
+                        </li>
+                        <li>
+                            <a href="{{ url('/') }}#testimonial">Testimonial</a>
                         </li>
                     </ul>
                 </nav>
@@ -34,7 +40,7 @@
                 <div class="header-contact-info d-flex align-items-center">
                     <div class="phone-number">
                         <a href="tel:+62895627552055">
-                            Call Us
+                            Telepon Kita
                             <i class="iconoir-arrow-up-right"></i>
                         </a>
                         0895627552055
