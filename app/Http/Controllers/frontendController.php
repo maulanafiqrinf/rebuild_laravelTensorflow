@@ -11,9 +11,9 @@ class FrontendController extends Controller
 {
     public function index(Request $request)
     {
-        $clients = Client::where('category', 'client')->get();
-        $services = Client::where('category', 'service')->get();
-        $blogs = Blog::where('option', 'visibilty')->get();
+        $clients = client::where('category', 'client')->get();
+        $services = client::where('category', 'service')->get();
+        $blogs = blog::where('option', 'visibilty')->get();
         return view('frontend', compact('clients', 'services', 'blogs'));
         
     }
