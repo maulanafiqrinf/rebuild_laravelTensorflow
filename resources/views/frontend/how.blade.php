@@ -40,7 +40,7 @@
                                 alt="How we do" />
                         </div>
                         <div class="how-we-do-content">
-                            <h4>Pengumpulan Dataset dan Analisis Data</h4>
+                            <h4>Pengumpulan Dataset</h4>
                             <p>1400 Data Citra Tanaman</p>
                         </div>
                     </div>
