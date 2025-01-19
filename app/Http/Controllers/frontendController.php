@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use App\models\client;
 use App\Models\blog;
 
-class frontendController extends Controller
+class FrontendController extends Controller
 {
     public function index(Request $request)
     {
