@@ -46,7 +46,7 @@
 
                         <div class="footer-experience d-flex align-items-center">
                             <ul class="social-links d-flex align-items-center">
-                                <li><a href="#">
+                                <li><a href="#">nama
                                     <i class="iconoir-dribbble"></i>
                                 </a></li>
                                 <li><a href="#">
