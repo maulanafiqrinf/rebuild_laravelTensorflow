@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\models\client;
+use App\Models\client;
 use App\Models\blog;
 
 class FrontendController extends Controller
