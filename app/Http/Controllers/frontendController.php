@@ -14,7 +14,7 @@ class FrontendController extends Controller
         $clients = Client::where('category', 'client')->get();
         $services = Client::where('category', 'service')->get();
         $blogs = Blog::where('option', 'visibilty')->get();
-        return view('frontend');
+        return view('frontend', compact('clients', 'services', 'blogs'));
         
     }
 
