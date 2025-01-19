@@ -41,9 +41,9 @@ Route::middleware(['auth', 'admin'])->group(function () {
 // Tambahkan file auth.php untuk autentikasi
 require __DIR__ . '/auth.php';
 
-// if (env('APP_ENV') === 'production') {
-//     URL::forceScheme('https');
-// }
+if (env('APP_ENV') === 'production') {
+    URL::forceScheme('https');
+}
 
 // if (App::environment('production')) {
 //     URL::forceScheme('https');
