@@ -5,9 +5,9 @@
                 class="animation-slide-left how-we-do-bg" />
             <div class="how-we-do-left-content">
                 <div class="top">
-                    <h5 class="section-subtitle">Our Model</h5>
-                    <h1 class="section-title">How we do</h1>
-                    <p>Save time and money with our powerful method.</p>
+                    <h1 class="section-title">Alur Penelitian</h1>
+                    <p>Implementasi Image Processing Pada Penyakit Daun Tanaman Padi Dengan Metode CNN (Sudi Kasus
+                        Kabupaten Tuban)</p>
                 </div>
                 <a href="how-we-do.html" class="theme-btn">
                     Learn More
@@ -26,8 +26,8 @@
                                 alt="How we do" />
                         </div>
                         <div class="how-we-do-content">
-                            <h4>Brainstroming</h4>
-                            <p>Ideas</p>
+                            <h4>Studi Literatur </h4>
+                            <p>Jurnal</p>
                         </div>
                     </div>
 
@@ -40,8 +40,8 @@
                                 alt="How we do" />
                         </div>
                         <div class="how-we-do-content">
-                            <h4>Product</h4>
-                            <p>Design</p>
+                            <h4>Pengumpulan Dataset dan Analisis Data</h4>
+                            <p>1400 Data Citra Tanaman</p>
                         </div>
                     </div>
 
@@ -54,8 +54,8 @@
                                 alt="How we do" />
                         </div>
                         <div class="how-we-do-content">
-                            <h4>Front-End</h4>
-                            <p>Development</p>
+                            <h4>Pengolahan Data</h4>
+                            <p>Pembagian Data Training,Validasi dan Testing</p>
                         </div>
                     </div>
 
@@ -71,8 +71,8 @@
                                 alt="How we do" />
                         </div>
                         <div class="how-we-do-content">
-                            <h4>SEO</h4>
-                            <p>Optimization</p>
+                            <h4>Implementasi Sistem</h4>
+                            <p>Jupyter Notebook,Python,Tensorflow dan Laravel</p>
                         </div>
                     </div>
 
@@ -85,8 +85,8 @@
                                 alt="How we do" />
                         </div>
                         <div class="how-we-do-content">
-                            <h4>Back-End</h4>
-                            <p>Development</p>
+                            <h4>Evaluasi dan Pengujian</h4>
+                            <p>UAT, Confusion Matriks dan Pakar</p>
                         </div>
                     </div>
                 </div>
@@ -102,8 +102,8 @@
                                 alt="How we do" />
                         </div>
                         <div class="how-we-do-content">
-                            <h4>Digital</h4>
-                            <p>Marketing</p>
+                            <h4>Kesimpulan dan Saran</h4>
+                            <p>Skripsi dan PPT</p>
                         </div>
                     </div>
                 </div>
