@@ -18,19 +18,8 @@
                         <i class="las la-times"></i>
                     </span>
                     <ul>
-                        <li class="dropdown-menu-item">
-                            <a href="index.html">Home</a>
-                            <span class="dropdown-menu-item-icon">
-                                <i class="las la-angle-down"></i>
-                            </span>
-                            <ul class="dropdown-menu">
-                                <li>
-                                    <a href="index.html">IT Services</a>
-                                </li>
-                                <li>
-                                    <a href="home2.html">Business Consulting</a>
-                                </li>
-                            </ul>
+                        <li>
+                            <a href="blog.html">Home</a>
                         </li>
                         <li>
                             <a href="blog.html">Blog</a>
@@ -44,11 +33,11 @@
             <div class="header-right">
                 <div class="header-contact-info d-flex align-items-center">
                     <div class="phone-number">
-                        <a href="tel:+1-938-740-7555">
+                        <a href="tel:+62895627552055">
                             Call Us
                             <i class="iconoir-arrow-up-right"></i>
                         </a>
-                        +1-938-740-7555
+                        0895627552055
                     </div>
                     <a href="{{ url('/login') }}" class="theme-btn">Login</a>
                 </div>
