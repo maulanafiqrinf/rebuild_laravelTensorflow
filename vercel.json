@@ -5,7 +5,8 @@
         "api/index.php": { "runtime": "vercel-php@0.5.5" }
     },
     "routes": [
-        { "src": "/build/(.*)", "dest": "/public/build/" },
+        { "src": "/assets/(.*)", "dest": "/public/assets/$1" },
+        { "src": "/build/(.*)", "dest": "/public/build/$1" },
         { "src": "/(.*)", "dest": "/api/index.php" }
     ],
     "public": true,
@@ -14,7 +15,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "rebuild-laravel-tensorflow.vercel.app/",
+        "APP_URL": "https://rebuild-laravel-tensorflow.vercel.app/",
         "APP_KEY": "base64:MMEtYEyAcCGHMJ1vuYkDXMlSqh8lJj6APfR9LnRFGs0=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
