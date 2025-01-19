@@ -72,7 +72,7 @@
                         </div>
                         <div class="how-we-do-content">
                             <h4>Implementasi Sistem</h4>
-                            <p>Jupyter Notebook,Python,Tensorflow dan Laravel</p>
+                            <p>Jupyter Notebook</p>
                         </div>
                     </div>
 
