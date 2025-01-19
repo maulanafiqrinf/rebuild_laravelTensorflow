@@ -86,7 +86,7 @@
                         </div>
                         <div class="how-we-do-content">
                             <h4>Evaluasi dan Pengujian</h4>
-                            <p>UAT,Confusion Matriks dan Pakar</p>
+                            <p>UAT,Confusion Matriks</p>
                         </div>
                     </div>
                 </div>
@@ -95,7 +95,6 @@
 
                     <div class="how-we-do-card">
                         <div class="circle-shape"></div>
-                        <div class="line-shape"></div>
                         <div class="line-shape"></div>
 
                         <div class="how-we-do-icon">
