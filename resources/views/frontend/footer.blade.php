@@ -1,15 +1,15 @@
 <footer class="footer-area">
-    <img src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/bg-shape-4.svg" alt="Shape" class="animation-slide-right bg-shape" />
+    <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/bg-shape-4.svg" alt="Shape" class="animation-slide-right bg-shape" />
     <div class="footer-top">
         <div class="custom-container">
             <div class="custom-row align-items-end justify-content-between">
                 <div class="left-content">
                     <a href="index.html" class="logo">
-                        <img src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/logo-white.svg" alt="Logo" />
+                        <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/logo-white.svg" alt="Logo" />
                     </a>
                     <p>We provide the expertise and support to <br>
                         propel your business forward.</p>
-                    <form action="https://wpriverthemes.com/HTML/synck/https://eclectic-narwhal-7eb4c2.netlify.app/assets/mail/subscribe.php" method="POST" class="subscribe-form">
+                    <form action="https://wpriverthemes.com/HTML/synck/https://rebuild-laravel-tensorflow.vercel.app/assets/mail/subscribe.php" method="POST" class="subscribe-form">
                         <div class="subscribe-box d-flex">
                             <input type="email" id="email" name="email" placeholder="Enter Your Email" />
                             <button id="submit2" class="theme-btn">Get Started</button>
@@ -23,16 +23,16 @@
                     </form>
                     <div class="footer-clients d-flex align-items-center">
                         <div class="footer-client-img">
-                            <img src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/youtube.svg" alt="Youtube" />
+                            <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/youtube.svg" alt="Youtube" />
                         </div>
                         <div class="footer-client-img">
-                            <img src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/webflow.svg" alt="webflow" />
+                            <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/webflow.svg" alt="webflow" />
                         </div>
                         <div class="footer-client-img">
-                            <img src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/upwork.svg" alt="upwork" />
+                            <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/upwork.svg" alt="upwork" />
                         </div>
                         <div class="footer-client-img">
-                            <img src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/shopify.svg" alt="shopify" />
+                            <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/shopify.svg" alt="shopify" />
                         </div>
                     </div>
                 </div>

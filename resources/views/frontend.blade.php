@@ -46,6 +46,7 @@
         {{-- @include('frontend.news') --}}
         {{-- @include('frontend.testimonial') --}}
         {{-- @include('frontend.contact') --}}
+        @include('frontend.footer')
     </main>
     <!-- jQuery Frameworks
     ============================================= -->
