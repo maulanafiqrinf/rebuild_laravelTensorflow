@@ -1,7 +1,7 @@
 <section class="how-we-do-area">
     <div class="custom-container">
         <div class="custom-row">
-            <img src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/bg-shape-1.svg" alt="Shape"
+            <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/bg-shape-1.svg" alt="Shape"
                 class="animation-slide-left how-we-do-bg" />
             <div class="how-we-do-left-content">
                 <div class="top">
@@ -22,7 +22,7 @@
                         <div class="line-shape"></div>
 
                         <div class="how-we-do-icon">
-                            <img src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/hwd-icon-1.svg"
+                            <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/hwd-icon-1.svg"
                                 alt="How we do" />
                         </div>
                         <div class="how-we-do-content">
@@ -36,7 +36,7 @@
                         <div class="line-shape"></div>
 
                         <div class="how-we-do-icon">
-                            <img src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/hwd-icon-2.svg"
+                            <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/hwd-icon-2.svg"
                                 alt="How we do" />
                         </div>
                         <div class="how-we-do-content">
@@ -50,7 +50,7 @@
                         <div class="line-shape"></div>
 
                         <div class="how-we-do-icon">
-                            <img src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/hwd-icon-3.svg"
+                            <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/hwd-icon-3.svg"
                                 alt="How we do" />
                         </div>
                         <div class="how-we-do-content">
@@ -67,7 +67,7 @@
                         <div class="line-shape"></div>
 
                         <div class="how-we-do-icon">
-                            <img src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/hwd-icon-4.svg"
+                            <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/hwd-icon-4.svg"
                                 alt="How we do" />
                         </div>
                         <div class="how-we-do-content">
@@ -81,7 +81,7 @@
                         <div class="line-shape"></div>
 
                         <div class="how-we-do-icon">
-                            <img src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/hwd-icon-5.svg"
+                            <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/hwd-icon-5.svg"
                                 alt="How we do" />
                         </div>
                         <div class="how-we-do-content">
@@ -98,7 +98,7 @@
                         <div class="line-shape"></div>
 
                         <div class="how-we-do-icon">
-                            <img src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/hwd-icon-6.svg"
+                            <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/hwd-icon-6.svg"
                                 alt="How we do" />
                         </div>
                         <div class="how-we-do-content">

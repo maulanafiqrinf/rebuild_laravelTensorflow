@@ -22,7 +22,7 @@
         href="cdn.jsdelivr.net/gh/iconoir-icons/iconoir%40main/css/iconoir.css">
     <link rel="stylesheet"
         href="../../../maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
-    <link rel="stylesheet" href="https://eclectic-narwhal-7eb4c2.netlify.app/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://rebuild-laravel-tensorflow.vercel.app/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../../cdn.jsdelivr.net/npm/swiper%4010/swiper-bundle.min.css"/>
 
     <link rel="stylesheet" href="https://rebuild-laravel-tensorflow.vercel.app/assets/css/style.css" />
