@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <!-- ========== Meta Tags ========== -->
     <meta charset="UTF-8">
@@ -24,8 +25,8 @@
     <link rel="stylesheet" href="https://eclectic-narwhal-7eb4c2.netlify.app/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../../cdn.jsdelivr.net/npm/swiper%4010/swiper-bundle.min.css"/>
 
-    <link rel="stylesheet" href="{{ URL::asset('assets/css/style.css') }}" />
-    <link rel="stylesheet" href="{{ URL::asset('assets/css/responsive.css') }}">
+    <link rel="stylesheet" href="https://rebuild-laravel-tensorflow.vercel.app/assets/css/style.css" />
+    <link rel="stylesheet" href="https://rebuild-laravel-tensorflow.vercel.app/assets/css/responsive.css">
 
     <!-- ========== End Stylesheet ========== -->
 
@@ -48,7 +49,7 @@
     </main>
     <!-- jQuery Frameworks
     ============================================= -->
-    <script src="{{ URL::asset('assets/js/jquery-3.7.0.min.js') }}"></script>
+    <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/jquery-3.7.0.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js" type="text/javascript"></script>
     <script src="{{ URL::asset('assets/js/bootstrap.bundle.min.js') }}"></script>
     
