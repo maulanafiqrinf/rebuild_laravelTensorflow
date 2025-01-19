@@ -17,7 +17,6 @@ class FrontendController extends Controller
         
         return view('frontend', compact('clients', 'services', 'blogs'));
         
-        
     }
 
     // public function store(Request $request)
