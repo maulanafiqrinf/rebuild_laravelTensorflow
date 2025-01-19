@@ -39,11 +39,11 @@
 
         @include('frontend.header')
         @include('frontend.hero')
-        {{-- @include('frontend.client') --}}
-        {{-- @include('frontend.service') --}}
+        @include('frontend.client')
+        @include('frontend.service')
         @include('frontend.how')
         @include('frontend.about')
-        {{-- @include('frontend.news') --}}
+        @include('frontend.news')
         {{-- @include('frontend.testimonial') --}}
         {{-- @include('frontend.contact') --}}
         @include('frontend.footer')
