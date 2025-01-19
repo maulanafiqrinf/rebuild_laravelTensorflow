@@ -27,8 +27,8 @@
     <link rel="stylesheet" href="https://eclectic-narwhal-7eb4c2.netlify.app/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../../cdn.jsdelivr.net/npm/swiper%4010/swiper-bundle.min.css"/>
 
-    <link rel="stylesheet" href="{{ URL::asset('/assets/css/style.css') }}" />
-    <link rel="stylesheet" href="{{ URL::asset('/assets/css/responsive.css') }}">
+    <link rel="stylesheet" href="{{ URL::asset('assets/css/style.css') }}" />
+    <link rel="stylesheet" href="{{ URL::asset('assets/css/responsive.css') }}">
 
     <!-- ========== End Stylesheet ========== -->
 
