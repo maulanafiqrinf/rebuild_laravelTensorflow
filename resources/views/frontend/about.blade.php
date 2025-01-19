@@ -11,7 +11,7 @@
                     aria-labelledby="business_strategy-tab">
                     <div class="about2-tab-content-body d-flex gap-24">
                         <div class="img-box">
-                            <img src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/about2-tab-1.png"
+                            <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imglndg/sawah.jpg"
                                 alt="About" />
                         </div>
 
