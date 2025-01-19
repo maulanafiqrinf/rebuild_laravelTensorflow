@@ -36,29 +36,6 @@
                         </div>
                     </div>
                 </div>
-
-                <div class="right-content">
-                    <div class="right-content-inner">
-                        <div class="custom-row d-flex align-items-center justify-content-between">
-                            <ul class="social-links d-flex align-items-center">
-                                <li><a href="#">
-                                    <i class="iconoir-dribbble"></i>
-                                </a></li>
-                                <li><a href="#">
-                                    <i class="iconoir-twitter"></i>
-                                </a></li>
-                                <li><a href="#">
-                                    <i class="iconoir-instagram"></i>
-                                </a></li>
-                                <li><a href="#">
-                                    <i class="iconoir-linkedin"></i>
-                                </a></li>
-                            </ul>
-            
-                            <p>&copy; 2025 All rights reserved by <a href="">mfdev87</a></p>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
