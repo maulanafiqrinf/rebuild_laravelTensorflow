@@ -20395,3 +20395,12 @@ LINE 1: select * from \"tb_sites\" limit 1
 #59 D:\\database\\laragon\\www\\laravel-tensorflow\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('D:\\\\database\\\\lar...')
 #60 {main}
 "} 
+[2025-01-19 11:03:43] local.ERROR: There are no commands defined in the "clear" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"clear\" namespace. at D:\\database\\laragon\\www\\laravel-tensorflow\\vendor\\symfony\\console\\Application.php:669)
+[stacktrace]
+#0 D:\\database\\laragon\\www\\laravel-tensorflow\\vendor\\symfony\\console\\Application.php(720): Symfony\\Component\\Console\\Application->findNamespace('clear')
+#1 D:\\database\\laragon\\www\\laravel-tensorflow\\vendor\\symfony\\console\\Application.php(266): Symfony\\Component\\Console\\Application->find('clear:cache')
+#2 D:\\database\\laragon\\www\\laravel-tensorflow\\vendor\\symfony\\console\\Application.php(175): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 D:\\database\\laragon\\www\\laravel-tensorflow\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 D:\\database\\laragon\\www\\laravel-tensorflow\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
