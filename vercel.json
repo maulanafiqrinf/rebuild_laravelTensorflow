@@ -13,7 +13,7 @@
     "outputDirectory": "public",
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "false",
+        "APP_DEBUG": "true",
         "APP_URL": "rebuild-laravel-tensorflow.vercel.app/",
         "APP_KEY": "base64:MMEtYEyAcCGHMJ1vuYkDXMlSqh8lJj6APfR9LnRFGs0=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
