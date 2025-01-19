@@ -51,21 +51,19 @@
     ============================================= -->
     <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/jquery-3.7.0.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js" type="text/javascript"></script>
-    <script src="{{ URL::asset('assets/js/bootstrap.bundle.min.js') }}"></script>
+    <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/bootstrap.bundle.min.js"></script>
     
-    <script src="{{ URL::asset('assets/js/gsap.min.js') }}"></script>
-    <script src="{{ URL::asset('assets/js/Draggable.min.js') }}"></script>
-    <script src="{{ URL::asset('assets/js/swiper-bundle.min.js') }}"></script>
+    <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/gsap.min.js"></script>
+    <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/Draggable.min.js"></script>
+    <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/swiper-bundle.min.js"></script>
     
-    <script src="{{ URL::asset('assets/js/client-marquee.js') }}"></script>
-    <script src="{{ URL::asset('assets/js/slideTobook.js') }}"></script>
-    <script src="{{ URL::asset('assets/js/theme-custom.js') }}"></script>
-    <script src="{{ URL::asset('assets/js/form2.js') }}"></script>
-    <script src="{{ URL::asset('assets/js/subscribe-form.js') }}"></script>
-    <script src="{{ URL::asset('assets/js/theme-worldmap.js') }}"></script>
+    <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/client-marquee.js"></script>
+    <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/slideTobook.js"></script>
+    <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/theme-custom.js"></script>
+    <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/form2.js"></script>
+    <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/subscribe-form.js"></script>
+    <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/theme-worldmap.js"></script>
     
 </body>
 
-
-<!-- Mirrored from wpriverthemes.com/HTML/synck/home2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 16 Jan 2025 00:28:01 GMT -->
 </html>
