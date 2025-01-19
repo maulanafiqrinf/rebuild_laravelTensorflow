@@ -14,7 +14,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "rebuild-laravel-tensorflow.vercel.app",
+        "APP_URL": "rebuild-laravel-tensorflow.vercel.app/",
         "APP_KEY": "base64:MMEtYEyAcCGHMJ1vuYkDXMlSqh8lJj6APfR9LnRFGs0=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
@@ -24,6 +24,12 @@
         "VIEW_COMPILED_PATH": "/tmp",
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
-        "SESSION_DRIVER": "cookie"
+        "SESSION_DRIVER": "cookie",
+        "DB_CONNECTION": "pgsql",
+        "DB_HOST": "aws-0-us-west-1.pooler.supabase.com",
+        "DB_PORT": "6543",
+        "DB_DATABASE": "postgres",
+        "DB_USERNAME": "postgres.rcyxvylagznbrrzkvpsj",
+        "DB_PASSWORD": "bXS3OHpthm4czyyS"
     }
 }
