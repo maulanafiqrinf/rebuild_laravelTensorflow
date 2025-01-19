@@ -96,6 +96,7 @@
                     <div class="how-we-do-card">
                         <div class="circle-shape"></div>
                         <div class="line-shape"></div>
+                        <div class="line-shape"></div>
 
                         <div class="how-we-do-icon">
                             <img src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/hwd-icon-6.svg"
