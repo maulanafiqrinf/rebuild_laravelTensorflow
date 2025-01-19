@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
     <!-- ========== Page Title ========== -->
     <title>Synck - New IT Services and Business Consulting HTML5 Template</title>
 
@@ -18,15 +18,15 @@
         rel="stylesheet">
 
     <!-- ========== Start Stylesheet ========== -->
-    <link rel="stylesheet"
-        href="cdn.jsdelivr.net/gh/iconoir-icons/iconoir%40main/css/iconoir.css">
-    <link rel="stylesheet"
-        href="../../../maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+    <link rel="stylesheet" href="cdn.jsdelivr.net/gh/iconoir-icons/iconoir%40main/css/iconoir.css">
+    <link rel= "stylesheet"
+        href= "https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
     <link rel="stylesheet" href="https://rebuild-laravel-tensorflow.vercel.app/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../../../cdn.jsdelivr.net/npm/swiper%4010/swiper-bundle.min.css"/>
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <link rel="stylesheet" href="https://rebuild-laravel-tensorflow.vercel.app/assets/css/style.css" />
     <link rel="stylesheet" href="https://rebuild-laravel-tensorflow.vercel.app/assets/css/responsive.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/iconoir-icons/iconoir@main/css/iconoir.css" />
+
 
     <!-- ========== End Stylesheet ========== -->
 
@@ -53,18 +53,20 @@
     <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/jquery-3.7.0.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js" type="text/javascript"></script>
     <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/bootstrap.bundle.min.js"></script>
-    
+
     <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/gsap.min.js"></script>
     <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/Draggable.min.js"></script>
     <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/swiper-bundle.min.js"></script>
-    
+
     <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/client-marquee.js"></script>
     <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/slideTobook.js"></script>
     <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/theme-custom.js"></script>
     <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/form2.js"></script>
     <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/subscribe-form.js"></script>
     <script src="https://rebuild-laravel-tensorflow.vercel.app/assets/js/theme-worldmap.js"></script>
-    
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+
 </body>
 
 </html>
