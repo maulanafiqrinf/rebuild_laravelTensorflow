@@ -1,8 +1,8 @@
 <section class="hero-section-wrap hero-home2">
     <div class="hero-section-content-wrap">
-        <img class="bg-shape slide-left" src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/bg-shape-6.svg"
+        <img class="bg-shape slide-left" src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/bg-shape-6.svg"
             alt="Shape" />
-        <img class="bg-shape2 slide-right" src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/bg-shape-5.svg"
+        <img class="bg-shape2 slide-right" src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/bg-shape-5.svg"
             alt="Shape" />
         <div class="custom-container">
             <div class="hero-section-content text-center">

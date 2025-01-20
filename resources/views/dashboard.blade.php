@@ -3,16 +3,11 @@
 @section('title', 'Dashboard')
 
 @section('content')
-    {{-- @php
+    @php
         $dataCounts = [
-            'Data Diri' => \App\Models\tb_me::count(),
-            'Data Layanan' => \App\Models\tb_services::count(),
-            'Data Keahlian' => \App\Models\tb_skills::count(),
-            'Data Pengalaman' => \App\Models\tb_experience::count(),
-            'Data Pendidikan' => \App\Models\tb_education::count(),
-            'Data Proyek' => \App\Models\tb_project::count(),
-            'Data Sertifikat' => \App\Models\tb_certificate::count(),
-            'Data Kontak' => \App\Models\tb_contact::count(),
+            'blog' => \App\Models\blog::count(),
+            'testimonial' => \App\Models\testimonial::count(),
+            'client' => \App\Models\client::count(),
         ];
     @endphp
 
@@ -28,7 +23,7 @@
                 </div>
             </div>
         @endforeach
-    </div> --}}
+    </div>
 
     <div class="py-6 px-6 text-center">
         <p class="mb-0 fs-4">Design and Developed by <a href="https://adminmart.com/" target="_blank" class="pe-1 text-primary text-decoration-underline">AdminMart.com</a> Distributed by <a href="https://themewagon.com/" target="_blank" class="pe-1 text-primary text-decoration-underline">ThemeWagon</a></p>

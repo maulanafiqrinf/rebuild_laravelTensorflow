@@ -32,7 +32,7 @@
 
                             <h1>
                                 <span class="icon"><img
-                                        src="https://eclectic-narwhal-7eb4c2.netlify.app/assets/imgs/hwd-icon-1.svg"
+                                        src="https://rebuild-laravel-tensorflow.vercel.app/assets/imgs/hwd-icon-1.svg"
                                         alt="Icon" /></span> Masukkan Gambar Penyakit Tanaman
                             </h1>
                             <div class="content">
