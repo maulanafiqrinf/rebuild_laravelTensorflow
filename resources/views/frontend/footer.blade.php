@@ -6,7 +6,7 @@
             <div class="custom-row align-items-end justify-content-between">
                 <div class="left-content">
                     <a href="{{ url('/') }}" class="logo">
-                        <img src="{{ URL::asset('/assets/imglndg/logo-dark.png') }}" alt="Logo" />
+                        <img src="{{ URL::asset('/assets/imglndg/logo-dark.png') }}" alt="Logo" style="width:150px"/>
                     </a>
                     <p>Website untuk mendeteksi dan mendiagnosis <br>
                         penyakit pada daun tanaman padi</p>
